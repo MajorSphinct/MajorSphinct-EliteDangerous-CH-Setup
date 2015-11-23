@@ -1,0 +1,145 @@
+// Elite Dangerous CMC
+// Game Version Beta 3.05
+// File Version 1.0
+// Date 16 Nov 14
+// By Snappahead
+//
+//
+// Flight Rotation
+//
+Yaw_Left a
+Yaw_Right d
+Yaw_Roll_Button
+Roll_Left
+Roll_Right
+Pitch_Up
+Pitch_Down
+//
+// Flight Thrust
+//
+Thrust_Left q
+Thrust_Right e
+Thrust_Up r
+Thrust_Down f
+Thrust_Forward
+Thrust_Backward
+//
+// Flight Throttle
+//
+Increase_Throttle w
+Decrease_Throttle s
+Set_Speed_to_-100%
+Set_Speed_to_-75%
+Set_Speed_to_-50%
+Set_Speed_to_-25%
+Set_Speed_to_-0% x
+Set_Speed_to_25%
+Set_Speed_to_50%
+Set_Speed_to_75%
+Set_Speed_to_100%
+//
+// Flight Landing Overrides
+//
+Yaw_Left
+Yaw_Right
+Pitch_Up
+Pitch_Down
+Roll_Left
+Thrust_Left
+Thrust_Right
+Thrust_Up
+Thrust_Down
+Thrust_Forward
+Thrust_Backward
+//
+// Flight Miscellaneous
+//
+Disable_Flight_Assist z
+Engine_Boost TAB
+Enable_Frame_Shift_Drive j
+Rotational_Correction
+//
+// Targeting
+//
+Select_Target_Ahead t
+Cycle_Next_Ship g
+Cycle_Previous_Ship
+Select_Highest_Threat h
+Cycle_Next_Hostile_Ship
+Cycle_Previous_Hostile_Ship
+Cycle_Next_Subsystem
+Cycle_Previous_Subsystem
+//
+// Weapons
+//
+Primary_Fire
+Secondary_Fire
+Cycle_Next_Fire_Group n
+Cycle_Previous_Fire_Group
+Deploy_Hard_Points u
+//
+// Cooling
+//
+Silent_Running KBDEL
+Deploy_Heat_Sink v
+//
+// Miscellaneous
+//
+Ship_Lights KBINS
+Increase_Sensor_Range KBPGUP
+Decrease_Sensore_Range KBPGDN
+Divert_Power_to_Engines KBUP
+Divert_Power_to_Weapons KBRIGHT
+Divert_Power_to_Systems KBLEFT
+Balance_Power_Distribution KBDOWN
+Reset_Oculus_Orientation F12
+Cargo_Scoop KBHOME
+Jettison_All_Cargo KBEND
+Landing_Gear l
+Microphone_Mute
+Use_Shield_Cell
+Use_Chaff_Launcher
+//
+// Mode Switches
+//
+Open_Galaxy_Map
+Pause p
+Target_Panel 1
+Systems_Panel 4
+Sensors_Panel 3
+Quick_Comms KBENT
+Comms_Panel 2
+//
+// Interface Mode
+//
+UI_Panel_Up w
+UI_Panel_Down s
+UI_Panel_Left a
+UI_Panel_Right d
+UI_Panel_Select SPACE
+Next_Panel_Tab e
+Previous_Panel_Tab q
+//
+// Headlook Mode
+//
+Reset_Head_Look
+Look_Up
+Look_Down
+Look_Left
+Look_Right
+//
+// Galaxy Map
+//
+Galaxy_Map_Pitch_Up t
+Galaxy_Map_Pitch_Down g
+Galaxy_Map_Yaw_Left q
+Galaxy_Map_Yaw_Right e
+Galaxy_Cam_Translate_Foward w
+Galaxy_Cam_Translate_Backward s
+Galaxy_Cam_Translate_Left a
+Galaxy_Cam_Translate_Right d
+Galaxy_Cam_Translate_Up r
+Galaxy_Cam_Translate_Down f
+Galaxy_Cam_Zoom_In z
+Galaxy_Cam_Zoom_Out x
+Galaxy_Cam_Set_X_to_Y_axis
